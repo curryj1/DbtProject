@@ -1,0 +1,1 @@
+select listing_id,date as review_date, comments as review_text, sentiment as review_sentiment from airbnb.raw.raw_reviews
