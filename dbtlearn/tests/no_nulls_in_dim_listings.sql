@@ -1,0 +1,1 @@
+{{ no_nulls_in_columns(ref('dim_listsings_cleaned')) }}
